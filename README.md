@@ -1,5 +1,8 @@
+
 # splashkit-flappybird
 An implementation of the Flappy Bird game in the C++ library SplashKit.
+
+![Screenshot of the program](https://ibb.co/gP73rp2)
 
 ## Requirements
 ### SplashKit
