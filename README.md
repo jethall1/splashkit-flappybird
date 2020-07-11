@@ -9,5 +9,6 @@ Installing SplashKit
 ## Running the program
 To run the program, in the command line type:
 > skm clang++ *.cpp -o program
-Then when that has compiled
+
+Run the program by using:
 > ./program
